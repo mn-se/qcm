@@ -1,0 +1,7 @@
+[project]
+name = "qcm-plotter"
+version = "0.1.0"
+description = "Host program for QCM plotter"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
